@@ -1,0 +1,7 @@
+mark wafflee 80 t2
+mark blender 200 1
+mark knife 10 4
+nikita wafflee 10 2
+nikita blender 30 1
+nikita knife 5 4
+
